@@ -1,3 +1,5 @@
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
+
 #include "gzw_manager.h"
 #include <string.h>
 #include <Manager.h>

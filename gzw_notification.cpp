@@ -1,3 +1,5 @@
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
+
 #include "gzw_notification.h"
 #include <Notification.h>
 #include <string.h>
